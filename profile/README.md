@@ -2,4 +2,4 @@
 
 Cree esta organizacion para subir todo lo que voy a ir haciendo en la cursada.
 
-Mi perfil: [(https://github.com/ag171980) ag171980]
+Mi perfil: [ag171980]https://github.com/ag171980
